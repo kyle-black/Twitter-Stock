@@ -10,3 +10,9 @@ Bearer_Token = 'AAAAAAAAAAAAAAAAAAAAAM1eYgEAAAAAkGs4H4Jv2USsucTKhqFUddq2sFI%3Db3
 Access_Token = '1176589291838988288-d3W3sxBTUXGmz4dusWBkGVLKP6nTPR'
 
 Access_Token_Secret = 'f6wNlC0kN3FqVN8yQovpe4rcHPdQOPBKH8ftDu4iN78gh'
+
+
+alpaca_key = 'PK1MMEHSI32HEYH4A8W9'
+
+aplpaca_url = 'https://paper-api.alpaca.markets'
+
